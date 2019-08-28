@@ -22,4 +22,3 @@ class String
 end
 
 word = "This, well, is a sentence. This is too!! And so is this, I think? Woo..."
-binding.pry
